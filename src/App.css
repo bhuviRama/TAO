@@ -1,38 +1,152 @@
-.App {
+.container {
   text-align: center;
+  font-family: 'Inter', sans-serif;
+  margin: 80px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title {
+  display: inline-flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app-logo {
+  width: 61px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.title span{
+  font-size: 30px;
+  margin-top: 20px;
+  font-weight: bolder;
+}
+
+.stepper {
+  width: 450px;
+  margin: 20px auto;
+}
+
+h2 {
+  font-size: 31px;
+  margin-bottom: 2px;
+}
+
+h6 {
+  color: #5a5454a6;
+  font-size: 15px;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+form {
+  display: block;
+  margin: 30px auto;
+  padding-left: 15%;
+}
+
+form div{
+  justify-content: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  /* width: 250px; */
+  width: 41%;
+  margin: 20px 0 20px 230px;
+}
+
+form div label {
+  text-align: left;
+  font-weight: 600;
+  font-size: 13px;
+  color: #000000c4;
+  margin-bottom: 5px;
+}
+
+form div input {
+  border-radius: 5px;
+  height: 35px;
+  /* width: 100%; */
+  border-color: #1200000a;
+  padding-left: 13px;
+}
+
+input::placeholder {
+  color:rgb(200, 199, 199);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+button {
+  width: 35%;
+  border-radius: 5px;
+  height: 40px;
+  background-color: #5A4AD1;
   color: white;
+  border-color: #ffffff3b;
 }
 
-.App-link {
-  color: #61dafb;
+.outer-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bordered-div {
+  border: 1px solid #9e9e9e17;
+  height: 165px;
+  width: 160px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.bordered-div img{
+  float: left;
+  margin-left: 7px;
+}
+
+.bordered-div label{
+  margin: 10px 20px 8px 20px;
+  float: left;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.bordered-div label span{
+  color: #e1dddd;
+}
+
+.bordered-div p{
+  font-size: 13px;
+  font-weight: bold;
+  color: #2b2a2a8a;
+  float: left;
+  margin: 5px 20px 10px 20px;
+  text-align: left;
+}
+
+.firstDiv {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-radius: 5px;
+  height: 40px;
+  margin: 0;
+  /* border: 1px solid #120000; */
+  /* padding-left: 13px; */
+  background-color: #d3d3d340;
+}
+
+.secondDiv {
+  font-size: 12px;
+  border-radius: 5px;
+  /* width: 90px; */
+  /* flex-direction: row; */
+  height: 35px;
+  font-weight: bold;
+  color: #787373ad;
+  /* padding: 15px; */
+  text-align: center;
+  margin-left: 18px;
+  margin-top: 5px;
+  margin-right: 18px;
+}
+
+.firstDiv input {
+  width:  100%;
 }
