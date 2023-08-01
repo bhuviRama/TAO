@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhuviRama/TAO/static/css/main.9720554e.css",
+    "main.js": "/bhuviRama/TAO/static/js/main.32256e11.js",
+    "static/js/787.469bf1bd.chunk.js": "/bhuviRama/TAO/static/js/787.469bf1bd.chunk.js",
+    "index.html": "/bhuviRama/TAO/index.html",
+    "main.9720554e.css.map": "/bhuviRama/TAO/static/css/main.9720554e.css.map",
+    "main.32256e11.js.map": "/bhuviRama/TAO/static/js/main.32256e11.js.map",
+    "787.469bf1bd.chunk.js.map": "/bhuviRama/TAO/static/js/787.469bf1bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9720554e.css",
+    "static/js/main.32256e11.js"
+  ]
+}
