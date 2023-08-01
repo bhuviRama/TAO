@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bhuviRama/TAO/static/css/main.9720554e.css",
-    "main.js": "/bhuviRama/TAO/static/js/main.32256e11.js",
-    "static/js/787.469bf1bd.chunk.js": "/bhuviRama/TAO/static/js/787.469bf1bd.chunk.js",
-    "index.html": "/bhuviRama/TAO/index.html",
-    "main.9720554e.css.map": "/bhuviRama/TAO/static/css/main.9720554e.css.map",
-    "main.32256e11.js.map": "/bhuviRama/TAO/static/js/main.32256e11.js.map",
-    "787.469bf1bd.chunk.js.map": "/bhuviRama/TAO/static/js/787.469bf1bd.chunk.js.map"
+    "main.css": "/bhuviRama/TAO/me/static/css/main.9720554e.css",
+    "main.js": "/bhuviRama/TAO/me/static/js/main.a6e6edc2.js",
+    "static/js/787.469bf1bd.chunk.js": "/bhuviRama/TAO/me/static/js/787.469bf1bd.chunk.js",
+    "index.html": "/bhuviRama/TAO/me/index.html",
+    "main.9720554e.css.map": "/bhuviRama/TAO/me/static/css/main.9720554e.css.map",
+    "main.a6e6edc2.js.map": "/bhuviRama/TAO/me/static/js/main.a6e6edc2.js.map",
+    "787.469bf1bd.chunk.js.map": "/bhuviRama/TAO/me/static/js/787.469bf1bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9720554e.css",
-    "static/js/main.32256e11.js"
+    "static/js/main.a6e6edc2.js"
   ]
 }
